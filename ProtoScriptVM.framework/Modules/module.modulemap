@@ -1,0 +1,6 @@
+framework module ProtoScriptVM {
+  umbrella header "ProtoScriptVM.h"
+
+  export *
+  module * { export * }
+}
